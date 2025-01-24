@@ -1,5 +1,7 @@
 # Explore Data Science Process
 This is a rather open ended exercise with the aim to get some practice working through the steps of the Data Science Process
+![image](https://github.com/user-attachments/assets/823187b8-8934-48bc-b45f-3dd2eed587b0)
+
 
 ## Group Goal
 Analyzing vaccination rates, trends, and their relationship with disease occurrence and country-specific predictors across Europe.
@@ -22,3 +24,13 @@ How do vaccination rates against various diseases vary across Europe? How has th
 | Presentation creation & delivery  | All (based on individual parts) |
 
 
+## Key Schedule
+| **Schedule**                          | **Date**   | **Check** |
+|---------------------------------------|------------|-----------|
+| Finish Data Analysis (Part 1)         | 19.01.2025 |           |
+| Finish Model the data (Part 2)        | 25.01.2025 |           |
+| Finish Documenting                    | 27.01.2025 |           |
+| Submit Everything                     | 27.01.2025 |           |
+| Hand-in interview                     | 28.01.2025 |           |
+
+(I hope everything goes as planned 🙏)
