@@ -1,6 +1,8 @@
 # Explore Data Science Process
 This is a rather open ended exercise with the aim to get some practice working through the steps of the Data Science Process
-![image](https://github.com/user-attachments/assets/823187b8-8934-48bc-b45f-3dd2eed587b0)
+<p align="center">
+  <img src="[image](https://github.com/user-attachments/assets/823187b8-8934-48bc-b45f-3dd2eed587b0)" alt="Description" width="300">
+</p>
 
 
 ## Group Goal
