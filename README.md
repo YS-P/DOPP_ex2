@@ -11,6 +11,14 @@ Analyzing vaccination rates, trends, and their relationship with disease occurre
 ## Questions
 How do vaccination rates against various diseases vary across Europe? How has this rate changed over time? Is the occurrence of certain diseases higher in areas in which vaccination is lower? Are there country characteristics that predict vaccination levels, or trends in vaccination levels?
 
+## Dataset 
+- Vaccination coverage
+  https://immunizationdata.who.int/global?topic=Vaccination-coverage&location=
+- Reported cases and Incidence
+  https://immunizationdata.who.int/global?topic=Reported-cases-and-incidence&location=
+- Human Development Index
+  https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
+
 ## Task allocation
 | **Task**                          | **Assigned Members**            |
 |-----------------------------------|---------------------------------|
