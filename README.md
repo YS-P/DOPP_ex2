@@ -9,7 +9,7 @@ This is a rather open ended exercise with the aim to get some practice working t
 Analyzing vaccination rates, trends, and their relationship with disease occurrence and country-specific predictors across countries.
 
 ## Questions
-How do vaccination rates against various diseases vary across countries? How has this rate changed over time? Is the occurrence of certain diseases higher in areas in which vaccination is lower? Are there country characteristics that predict vaccination levels, or trends in vaccination levels?
+How do vaccination rates against various diseases vary across Europe? How has this rate changed over time? Is the occurrence of certain diseases higher in areas in which vaccination is lower? Are there country characteristics that predict vaccination levels, or trends in vaccination levels?
 
 ## Dataset 
 - Vaccination coverage  
