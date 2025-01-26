@@ -37,7 +37,7 @@ How do vaccination rates against various diseases vary across Europe? How has th
 ## Key Schedule
 | **Schedule**                          | **Date**   | **Check** |
 |---------------------------------------|------------|-----------|
-| Finish Data Analysis (Part 1)         | 19.01.2025 |           |
+| Finish Data Analysis (Part 1)         | 19.01.2025 |     ✔️     |
 | Finish Model the data (Part 2)        | 25.01.2025 |           |
 | Finish Documenting                    | 27.01.2025 |           |
 | Submit Everything                     | 27.01.2025 |           |
